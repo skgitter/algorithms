@@ -1,2 +1,2 @@
-# algorithms
-Java implementation of algorithms.
+# Algorithms
+Java implementation of sorting and searching algorithms algorithms.
